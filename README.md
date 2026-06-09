@@ -8,8 +8,6 @@ A responsive, professionally styled website about **Data Analysis** and **Artifi
 
 > **[https://shrijan-v.github.io/ai-ml-website](https://shrijan-v.github.io/ai-ml-website)**
 >
-> *(Replace `YOUR_USERNAME` with your GitHub username after deploying)*
-
 ---
 
 ## ✨ Features
