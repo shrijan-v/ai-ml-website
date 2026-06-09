@@ -6,7 +6,7 @@ A responsive, professionally styled website about **Data Analysis** and **Artifi
 
 ## 🌐 Live Site
 
-> **[https://YOUR_USERNAME.github.io/ai-ml-website](https://YOUR_USERNAME.github.io/ai-ml-website)**
+> **[https://shrijan-v.github.io/ai-ml-website](https://shrijan-v.github.io/ai-ml-website)**
 >
 > *(Replace `YOUR_USERNAME` with your GitHub username after deploying)*
 
@@ -59,7 +59,7 @@ ai-ml-website/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/ai-ml-website.git
+git clone https://shrijan-v.github.io/ai-ml-website
 
 # 2. Navigate into the project folder
 cd ai-ml-website
@@ -94,7 +94,7 @@ git commit -m "feat: add images and content sections"
 git commit -m "docs: add README with project information"
 
 # Connect to GitHub and push
-git remote add origin https://github.com/YOUR_USERNAME/ai-ml-website.git
+git remote add origin https://shrijan-v.github.io/ai-ml-website
 git branch -M main
 git push -u origin main
 ```
@@ -111,7 +111,7 @@ git push -u origin main
 6. Wait 1–2 minutes — GitHub will display a green banner with your live URL:
 
 ```
-https://YOUR_USERNAME.github.io/ai-ml-website
+https://shrijan-v.github.io/ai-ml-website
 ```
 
 7. Copy the URL, paste it into this README (Live Site section above), and push:
@@ -129,8 +129,8 @@ git push origin main
 ## 👤 Author
 
 **Your Name**
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: youremail@example.com
+- GitHub: [github.com/shrijan-v](https://github.com/shrijan-v)
+- Email: shrijanvijay11@gmail.com
 
 ---
 
